@@ -1,0 +1,212 @@
+{
+    "albums": {
+        "data": [
+            {
+                "id": "1145950",
+                "title": "Rap God",
+                "image": "https://c.saavncdn.com/321/Rap-God-2013-50x50.jpg",
+                "music": "Eminem",
+                "url": "https://www.jiosaavn.com/album/rap-god/zl7s0mbvjnQ_",
+                "type": "album",
+                "description": "Eminem",
+                "ctr": 341,
+                "position": 1,
+                "more_info": {
+                    "year": "2013",
+                    "is_movie": "",
+                    "language": "english",
+                    "song_pids": "q4DWkaQC"
+                }
+            },
+            {
+                "id": "13912139",
+                "title": "Venom (Music From The Motion Picture)",
+                "image": "https://c.saavncdn.com/897/Venom-Music-From-The-Motion-Picture--English-2018-20180919230507-50x50.jpg",
+                "music": "Eminem",
+                "url": "https://www.jiosaavn.com/album/venom-music-from-the-motion-picture/3ycn5FbqpBw_",
+                "type": "album",
+                "description": "Eminem",
+                "ctr": 161,
+                "position": 2,
+                "more_info": {
+                    "year": "2018",
+                    "is_movie": "",
+                    "language": "english",
+                    "song_pids": "3E8z9Phg"
+                }
+            },
+            {
+                "id": "1117676",
+                "title": "Not Afraid",
+                "image": "https://c.saavncdn.com/985/Not-Afraid-Explicit-Version-2010-50x50.jpg",
+                "music": "Eminem",
+                "url": "https://www.jiosaavn.com/album/not-afraid/rUeM4jyRuLA_",
+                "type": "album",
+                "description": "Eminem",
+                "ctr": 109,
+                "position": 3,
+                "more_info": {
+                    "year": "2010",
+                    "is_movie": "",
+                    "language": "english",
+                    "song_pids": "L4yfpTMK"
+                }
+            }
+        ],
+        "position": 3
+    },
+    "songs": {
+        "data": [
+            {
+                "id": "P4fh0Cvo",
+                "title": "Love The Way You Lie",
+                "image": "https://c.saavncdn.com/527/Recovery-Explicit-Version-2010-50x50.jpg",
+                "album": "Recovery",
+                "url": "https://www.jiosaavn.com/song/love-the-way-you-lie/IFwNWURzQVw",
+                "type": "song",
+                "description": "Recovery",
+                "ctr": 2367,
+                "position": 1,
+                "more_info": {
+                    "primary_artists": "Eminem",
+                    "singers": "Eminem, Rihanna"
+                }
+            },
+            {
+                "id": "q4DWkaQC",
+                "title": "Rap God",
+                "image": "https://c.saavncdn.com/321/Rap-God-2013-50x50.jpg",
+                "album": "Rap God",
+                "url": "https://www.jiosaavn.com/song/rap-god/AVwvZh9RZnA",
+                "type": "song",
+                "description": "Rap God",
+                "ctr": 3029,
+                "position": 2,
+                "more_info": {
+                    "primary_artists": "Eminem",
+                    "singers": "Eminem"
+                }
+            },
+            {
+                "id": "UGYzL2tM",
+                "title": "Remember The Name (feat. Eminem &amp; 50 Cent)",
+                "image": "https://c.saavncdn.com/411/No-6-Collaborations-Project-English-2019-20190711143014-50x50.jpg",
+                "album": "No.6 Collaborations Project",
+                "url": "https://www.jiosaavn.com/song/remember-the-name-feat.-eminem--50-cent/JS8ySzgCQ34",
+                "type": "song",
+                "description": "No.6 Collaborations Project",
+                "ctr": 1008,
+                "position": 3,
+                "more_info": {
+                    "primary_artists": "Ed Sheeran",
+                    "singers": "Ed Sheeran, 50 Cent, Eminem"
+                }
+            }
+        ],
+        "position": 2
+    },
+    "radios": {
+        "data": [],
+        "position": 4
+    },
+    "playlists": {
+        "data": [
+            {
+                "id": "157002033",
+                "title": "Weekly Jukebox - Eminem",
+                "image": "https://c.saavncdn.com/editorial/english-cluster_2_20190929122647_50x50.jpg",
+                "extra": "Saavn",
+                "url": "https://www.jiosaavn.com/featured/weekly-jukebox---eminem/8eFY-srCAGgwkg5tVhI3fw__",
+                "language": "english",
+                "type": "playlist",
+                "description": "Saavn Editor",
+                "position": 1
+            },
+            {
+                "id": "48667929",
+                "title": "Rap God - Eminem",
+                "image": "https://c.saavncdn.com/editorial/RapGodEminem_99974731_20171017_50x50.jpg",
+                "extra": "Saavn",
+                "url": "https://www.jiosaavn.com/featured/rap-god---eminem/tTOjYuxiGUo_",
+                "language": "english",
+                "type": "playlist",
+                "description": "Saavn Editor",
+                "position": 2
+            },
+            {
+                "id": "148359749",
+                "title": "Spotlight - Eminem",
+                "image": "https://c.saavncdn.com/editorial/610240_english_20180806212926_50x50.jpg",
+                "extra": "Saavn",
+                "url": "https://www.jiosaavn.com/featured/spotlight---eminem/JroTsyYbvE2O0eMLZZxqsA__",
+                "language": "english",
+                "type": "playlist",
+                "description": "Saavn Editor",
+                "position": 3
+            }
+        ],
+        "position": 1
+    },
+    "artists": {
+        "data": [
+            {
+                "id": "610240",
+                "title": "Eminem",
+                "image": "https://c.saavncdn.com/artists/Eminem_50x50.jpg",
+                "extra": "singer",
+                "url": "https://www.jiosaavn.com/artist/eminem-songs/-f6Su9-0agk_",
+                "type": "artist",
+                "description": "Singer",
+                "ctr": 10352,
+                "entity": 1,
+                "position": 1
+            },
+            {
+                "id": "2200873",
+                "title": "Various Artists - Eminem Tribute",
+                "image": "https://www.jiosaavn.com/_i/3.0/artist-default-music.png",
+                "extra": "singer",
+                "url": "https://www.jiosaavn.com/artist/various-artists---eminem-tribute-songs/f,r5c3Ju5-I_",
+                "type": "artist",
+                "description": "Singer",
+                "ctr": 0,
+                "entity": 0,
+                "position": 2
+            },
+            {
+                "id": "2516887",
+                "title": "Tribute to Eminem",
+                "image": "https://www.jiosaavn.com/_i/share-image.png",
+                "extra": "singer",
+                "url": "https://www.jiosaavn.com/artist/tribute-to-eminem-songs/AC3NqhYUTc8_",
+                "type": "artist",
+                "description": "Singer",
+                "ctr": 0,
+                "entity": 0,
+                "position": 3
+            }
+        ],
+        "position": 5
+    },
+    "topquery": {
+        "data": [
+            {
+                "id": "610240",
+                "title": "Eminem",
+                "image": "https://c.saavncdn.com/artists/Eminem_50x50.jpg",
+                "extra": "singer",
+                "url": "https://www.jiosaavn.com/artist/eminem-songs/-f6Su9-0agk_",
+                "type": "artist",
+                "description": "Artist",
+                "ctr": 10352,
+                "entity": 1,
+                "position": 1
+            }
+        ],
+        "position": 0
+    },
+    "shows": {
+        "data": [],
+        "position": 6
+    }
+}
